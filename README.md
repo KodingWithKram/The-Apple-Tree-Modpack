@@ -12,6 +12,9 @@ A Minecraft Modpack focused on "Kitchen Sink" playstyles. (NeoForge 1.21.1)
 ### Ensure for all launchers that the modpack is given >6 GB (6144 MB) of RAM. 8GB is preferred.
 
 
+### Releases page on this repository contains all files required for installation. 
+
+
 ## Prism/General Launcher (Recommended)
 (Prism Launcher is available at https://prismlauncher.org/)
 
